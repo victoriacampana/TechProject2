@@ -1,0 +1,6 @@
+/Users/victoriacampana/Desktop/TechProject2/TechProject2/bin/Debug/TechProject2.exe
+/Users/victoriacampana/Desktop/TechProject2/TechProject2/bin/Debug/TechProject2.pdb
+/Users/victoriacampana/Desktop/TechProject2/TechProject2/obj/Debug/TechProject2.csproj.AssemblyReference.cache
+/Users/victoriacampana/Desktop/TechProject2/TechProject2/obj/Debug/TechProject2.csproj.CoreCompileInputs.cache
+/Users/victoriacampana/Desktop/TechProject2/TechProject2/obj/Debug/TechProject2.exe
+/Users/victoriacampana/Desktop/TechProject2/TechProject2/obj/Debug/TechProject2.pdb
